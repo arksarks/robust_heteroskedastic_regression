@@ -19,7 +19,7 @@ Defines an object to store coefficients of our regression; also defines an objec
 
 *k_fold_cross_validation.py*; Performs k fold cross validation across every data set and for every method outlined. Saves the average test errors on to a nested dictionary.
 
-*Load_data.py*; Loads data sets in to a dictionary.
+*load_data.py*; Loads data sets in to a dictionary.
 
 *main.py*; Main file. 
 
